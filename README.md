@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Técnico Ingeniero de Software**
+
 :pencil: **Generador de Contenido**
+
 :eyeglasses: **Técnico Ingeniero de Software**
+
 :oncoming_automobile: **Fan de autos**
+
 :family: **El hijo mas feliz del mundo**
 
 ### Vias de contacto
